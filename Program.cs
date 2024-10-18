@@ -29,6 +29,20 @@ namespace elso1018
                     {
                         Console.WriteLine("Elégséges");
                     }
+                    else if (pontszam >= 60 && pontszam <= 79)
+                    {
+                        Console.WriteLine("Közepes");
+                    }
+                    else if (pontszam >= 80 && pontszam <= 89)
+                    {
+                        Console.WriteLine("Jó");
+                    }
+                    else if (pontszam >= 90 && pontszam <= 100)
+                    {
+                        Console.WriteLine("Jeles");
+                    }
+                }
+            }
 
         }
     }
