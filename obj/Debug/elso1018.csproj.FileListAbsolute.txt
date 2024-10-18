@@ -1,0 +1,7 @@
+C:\Users\Gyurcsaklj\source\repos\elso1018\obj\Debug\elso1018.csproj.AssemblyReference.cache
+C:\Users\Gyurcsaklj\source\repos\elso1018\obj\Debug\elso1018.csproj.CoreCompileInputs.cache
+C:\Users\Gyurcsaklj\source\repos\elso1018\bin\Debug\elso1018.exe.config
+C:\Users\Gyurcsaklj\source\repos\elso1018\bin\Debug\elso1018.exe
+C:\Users\Gyurcsaklj\source\repos\elso1018\bin\Debug\elso1018.pdb
+C:\Users\Gyurcsaklj\source\repos\elso1018\obj\Debug\elso1018.exe
+C:\Users\Gyurcsaklj\source\repos\elso1018\obj\Debug\elso1018.pdb
