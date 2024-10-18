@@ -43,7 +43,10 @@ namespace elso1018
                     }
                 }
             }
-
+            else
+            {
+                Console.WriteLine("Érvénytelen bevitel, kérlek, adj meg egy egész számot.");
+            }
         }
     }
 }
